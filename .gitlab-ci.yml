@@ -1,0 +1,5 @@
+job:
+    artifacts:
+        name: "$CI_COMMIT_REF_NAME"
+        path:
+        - nano/
