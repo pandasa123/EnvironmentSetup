@@ -1,6 +1,0 @@
-# job:
-#     script: zip master.zip nano/*
-    # artifacts:
-    #     # name: "$CI_COMMIT_REF_NAME"
-    #     path:
-    #     - nano/
